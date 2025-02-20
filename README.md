@@ -21,4 +21,4 @@ The dataset used is the [Telco Customer Churn dataset](https://www.kaggle.com/bl
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Customer_Churn_Prediction.git
+   git clone https://github.com/IKECHIBRAD/Customer_Churn_Prediction.git
